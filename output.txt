@@ -1,0 +1,226 @@
+[0]MainThread: -------------Exam Day----------------
+[1]Student 1 : Arrives school.
+[1]Student 2 : Arrives school.
+[1]Student 3 : Arrives school.
+[1]Student 4 : Arrives school.
+[1]Student 5 : Arrives school.
+[1]Student 6 : Arrives school.
+[1]Student 7 : Arrives school.
+[1]Student 8 : Arrives school.
+[2]Student 9 : Arrives school.
+[2]Student 10 : Arrives school.
+[2]Student 11 : Arrives school.
+[2]Student 12 : Arrives school.
+[2]Student 13 : Arrives school.
+[2]Student 14 : Arrives school.
+[70]Student 6 : Waiting for the instructor.
+[110]Student 3 : Waiting for the instructor.
+[244]Student 8 : Waiting for the instructor.
+[321]Student 4 : Waiting for the instructor.
+[423]Student 12 : Waiting for the instructor.
+[494]Student 10 : Waiting for the instructor.
+[717]Student 14 : Waiting for the instructor.
+[766]Student 11 : Waiting for the instructor.
+[1074]Student 6 : Still waiting for the instructor.
+[1115]Student 3 : Still waiting for the instructor.
+[1192]Student 2 : Waiting for the instructor.
+[1248]Student 8 : Still waiting for the instructor.
+[1326]Student 4 : Still waiting for the instructor.
+[1428]Student 12 : Still waiting for the instructor.
+[1498]Student 10 : Still waiting for the instructor.
+[1719]Student 14 : Still waiting for the instructor.
+[1771]Student 11 : Still waiting for the instructor.
+[2076]Student 6 : Still waiting for the instructor.
+[2107]Student 1 : Waiting for the instructor.
+[2119]Student 3 : Still waiting for the instructor.
+[2194]Student 2 : Still waiting for the instructor.
+[2253]Student 8 : Still waiting for the instructor.
+[2330]Student 4 : Still waiting for the instructor.
+[2432]Student 12 : Still waiting for the instructor.
+[2502]Student 10 : Still waiting for the instructor.
+[2694]Student 13 : Waiting for the instructor.
+[2723]Student 14 : Still waiting for the instructor.
+[2734]Student 9 : Waiting for the instructor.
+[2749]Student 5 : Waiting for the instructor.
+[2775]Student 11 : Still waiting for the instructor.
+[2790]Student 7 : Waiting for the instructor.
+[3079]Student 6 : Still waiting for the instructor.
+[3109]Student 1 : Still waiting for the instructor.
+[3123]Student 3 : Still waiting for the instructor.
+[3199]Student 2 : Still waiting for the instructor.
+[3257]Student 8 : Still waiting for the instructor.
+[3335]Student 4 : Still waiting for the instructor.
+[3437]Student 12 : Still waiting for the instructor.
+[3507]Student 10 : Still waiting for the instructor.
+[3698]Student 13 : Still waiting for the instructor.
+[3726]Student 14 : Still waiting for the instructor.
+[3739]Student 9 : Still waiting for the instructor.
+[3751]Student 5 : Still waiting for the instructor.
+[3776]Student 11 : Still waiting for the instructor.
+[3794]Student 7 : Still waiting for the instructor.
+[3811]Instructor: Arrive, open the door.
+[4082]Student 6 : Enter the classroom, Classroom have 1 students.
+[4109]Student 1 : Enter the classroom, Classroom have 2 students.
+[4128]Student 3 : Enter the classroom, Classroom have 3 students.
+[4199]Student 2 : Enter the classroom, Classroom have 4 students.
+[4261]Student 8 : Enter the classroom, Classroom have 5 students.
+[4338]Student 4 : Enter the classroom, Classroom have 6 students.
+[4441]Student 12 : Enter the classroom, Classroom have 7 students.
+[4511]Student 10 : Enter the classroom, Classroom have 8 students.
+[4702]Student 13 : Enter the classroom, Classroom have 9 students.
+[4729]Student 14 : Enter the classroom, Classroom have 10 students.
+[4743]Student 9 : Classroom is full or Exam begins, need to wait for next exam.
+[4755]Student 5 : Classroom is full or Exam begins, need to wait for next exam.
+[4779]Student 11 : Classroom is full or Exam begins, need to wait for next exam.
+[4795]Student 7 : Classroom is full or Exam begins, need to wait for next exam.
+[4811]Instructor:----------------- Exam Begin-----------------
+[5086]Student 6 : Taking Exam 1.
+[5114]Student 1 : Taking Exam 1.
+[5129]Student 3 : Taking Exam 1.
+[5201]Student 2 : Taking Exam 1.
+[5265]Student 8 : Taking Exam 1.
+[5342]Student 4 : Taking Exam 1.
+[5445]Student 12 : Taking Exam 1.
+[5516]Student 10 : Taking Exam 1.
+[5707]Student 13 : Taking Exam 1.
+[5730]Student 14 : Taking Exam 1.
+[8812]Instructor:----------------Exam 1 over-----------------
+[8812]Instructor: Collecting the exam.
+[8812]Instructor: Student 6 leaving classroom
+[8812]Instructor: Student 1 leaving classroom
+[8812]Instructor: Student 3 leaving classroom
+[8812]Instructor: Student 2 leaving classroom
+[8812]Instructor: Student 8 leaving classroom
+[8813]Instructor: Student 4 leaving classroom
+[8813]Instructor: Student 12 leaving classroom
+[8813]Instructor: Student 10 leaving classroom
+[8813]Instructor: Student 13 leaving classroom
+[8813]Instructor: Student 14 leaving classroom
+[8813]Instructor: Taking brake.
+[10090]Student 6 : Taking brake.
+[10117]Student 1 : Taking brake.
+[10132]Student 3 : Taking brake.
+[10203]Student 2 : Taking brake.
+[10271]Student 8 : Taking brake.
+[10345]Student 4 : Taking brake.
+[10450]Student 12 : Taking brake.
+[10519]Student 10 : Taking brake.
+[10709]Student 13 : Taking brake.
+[10734]Student 14 : Taking brake.
+[11704]Student 10 : Enter classroom, Classroom have 5 students.
+[12168]Student 12 : Enter classroom, Classroom have 6 students.
+[12824]Student 6 : Enter classroom, Classroom have 7 students.
+[12946]Student 3 : Enter classroom, Classroom have 8 students.
+[13254]Student 14 : Enter classroom, Classroom have 9 students.
+[13406]Student 2 : Enter classroom, Classroom have 10 students.
+[13486]Student 8 : Classroom is full or Exam begins, wait for next exam.
+[13509]Student 4 : Classroom is full or Exam begins, wait for next exam.
+[14444]Student 13 : Classroom is full or Exam begins, wait for next exam.
+[14802]Student 1 : Classroom is full or Exam begins, wait for next exam.
+[18939]Instructor:----------------- Exam Begin-----------------
+[19715]Student 10 : Taking Exam 2.
+[20173]Student 12 : Taking Exam 2.
+[20830]Student 6 : Taking Exam 2.
+[20952]Student 3 : Taking Exam 2.
+[21264]Student 14 : Taking Exam 2.
+[21410]Student 2 : Taking Exam 2.
+[21718]Student 10 : Taking brake.
+[21773]Student 9 : Taking Exam 2.
+[21784]Student 5 : Taking Exam 2.
+[21809]Student 11 : Taking Exam 2.
+[21816]Student 7 : Taking Exam 2.
+[22176]Student 12 : Taking brake.
+[22832]Student 6 : Taking brake.
+[22941]Instructor:----------------Exam 2 over-----------------
+[22942]Instructor: Collecting the exam.
+[22942]Instructor: Student 9 leaving classroom
+[22942]Instructor: Student 5 leaving classroom
+[22942]Instructor: Student 11 leaving classroom
+[22942]Instructor: Student 7 leaving classroom
+[22942]Instructor: Student 10 leaving classroom
+[22942]Instructor: Student 12 leaving classroom
+[22942]Instructor: Student 6 leaving classroom
+[22942]Instructor: Student 3 leaving classroom
+[22942]Instructor: Student 14 leaving classroom
+[22942]Instructor: Student 2 leaving classroom
+[22942]Instructor: Taking brake.
+[22954]Student 3 : Taking brake.
+[23269]Student 14 : Taking brake.
+[23413]Student 2 : Taking brake.
+[23776]Student 9 : Taking brake.
+[23784]Student 5 : Taking brake.
+[23813]Student 11 : Taking brake.
+[23819]Student 7 : Taking brake.
+[26887]Instructor:----------------- Exam Begin-----------------
+[27505]Student 8 : Enter the classroom, Classroom have 1 students.
+[27523]Student 4 : Enter the classroom, Classroom have 2 students.
+[28457]Student 13 : Enter the classroom, Classroom have 3 students.
+[28498]Student 7 : Enter the classroom, Classroom have 4 students.
+[28509]Student 8 : Taking Exam 3.
+[28527]Student 4 : Taking Exam 3.
+[28809]Student 1 : Enter the classroom, Classroom have 5 students.
+[29218]Student 5 : Enter the classroom, Classroom have 6 students.
+[29462]Student 13 : Taking Exam 3.
+[29503]Student 7 : Taking Exam 3.
+[29813]Student 1 : Taking Exam 3.
+[30083]Student 11 : Enter the classroom, Classroom have 7 students.
+[30222]Student 5 : Taking Exam 3.
+[30637]Student 9 : Enter the classroom, Classroom have 8 students.
+[31087]Student 11 : Taking Exam 3.
+[31639]Student 9 : Taking Exam 3.
+[36889]Instructor:----------------Exam 3 over-----------------
+[36889]Instructor: Collecting the exam.
+[36889]Instructor: Student 8 leaving classroom
+[36889]Instructor: Student 4 leaving classroom
+[36889]Instructor: Student 13 leaving classroom
+[36889]Instructor: Student 7 leaving classroom
+[36889]Instructor: Student 1 leaving classroom
+[36889]Instructor: Student 5 leaving classroom
+[36889]Instructor: Student 11 leaving classroom
+[36889]Instructor: Student 9 leaving classroom
+[36889]Instructor:--------------Students Exam Grade-----------------
+StudentID Exam1 Exam2 exam3
+Student 1  39	0	50	 
+Student 2  64	16	0	 
+Student 3  38	10	0	 
+Student 4  28	0	12	 
+Student 5  0	99	69	 
+Student 6  91	68	0	 
+Student 7  0	80	17	 
+Student 8  79	0	39	 
+Student 9  0	54	44	 
+Student 10  50	86	0	 
+Student 11  0	92	88	 
+Student 12  11	81	0	 
+Student 13  37	0	11	 
+Student 14  17	80	0	 
+[36891]Instructor:--------------------------------------------------
+[39825]MainThread: Student 1 is going home.
+[44486]MainThread: Student 2 is going home.
+[45739]MainThread: Student 3 is going home.
+[45739]MainThread: Student 4 is going home.
+[45739]MainThread: Student 5 is going home.
+[45739]MainThread: Student 6 is going home.
+[45739]MainThread: Student 7 is going home.
+[45739]MainThread: Student 8 is going home.
+[45739]MainThread: Student 9 is going home.
+[45739]MainThread: Student 10 is going home.
+[45739]MainThread: Student 11 is going home.
+[45743]MainThread: Student 12 is going home.
+[45743]MainThread: Student 13 is going home.
+[46640]MainThread: Student 14 is going home.
+[46640]MainThread: Is the Thread-1 is alive? false
+[46640]MainThread: Is the Thread-2 is alive? false
+[46640]MainThread: Is the Thread-3 is alive? false
+[46640]MainThread: Is the Thread-4 is alive? false
+[46640]MainThread: Is the Thread-5 is alive? false
+[46640]MainThread: Is the Thread-6 is alive? false
+[46640]MainThread: Is the Thread-7 is alive? false
+[46640]MainThread: Is the Thread-8 is alive? false
+[46640]MainThread: Is the Thread-9 is alive? false
+[46641]MainThread: Is the Thread-10 is alive? false
+[46641]MainThread: Is the Thread-11 is alive? false
+[46641]MainThread: Is the Thread-12 is alive? false
+[46641]MainThread: Is the Thread-13 is alive? false
+[46641]MainThread: Is the Thread-14 is alive? false
+[46641]MainThread: Instructor is going home.
